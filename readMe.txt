@@ -71,7 +71,7 @@ now .gitignore file will be created it is an empty file ... u can write in it as
 this gives the message: initialized empty git repository
 add all the files using the command 
 git add .
-git commit -m "initial workflow setup"
+git commit -m "initial workflow setup" //it works with " ", gives error with  ''
 ------------------------------------------------------
 working on index home page
 
