@@ -86,3 +86,12 @@ font-size:6rem  rem is multipiler unit. 1 rem = 16px
 default fontsize of html is 16px, so 6rem will be 16*6=96px. we can see in the developer tools also fontsize will be displayed as 96px.
 
 20 vh (viewport height) like rem, vh is another unit of measurement.
+
+after all the files are done 
+add to git using git add .
+git commit -m "____"
+git push  and add origin commands
+now after ur repo is created in git then to host ur website u can use pages.github.com
+create another github repo randeekon.github.io and then follow the steps:
+https://randeekon.github.io/portfolio/
+https://randeekon.github.io/portfolio/index.html
